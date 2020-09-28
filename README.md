@@ -16,5 +16,5 @@ javac MancalaTester.java
 ```
 java MancalaTester.java
 ```
-- You can also open all these files in a java project workspace of an ide such as eclipse or IntelliJ
+- You can also drop all these files in a java project workspace of an ide such as eclipse or IntelliJ to run the project.
 
